@@ -1,8 +1,8 @@
 # Frontend Mentor - Testimonials Grid Section
 ### Links
 
-- Solution URL: [https://github.com/Adrianmbugua/news-homepage-main.git](https://github.com/Adrianmbugua/news-homepage-main.git)
--Live Site URL: [https://adrianmbugua.github.io/news-homepage-main/](https://adrianmbugua.github.io/news-homepage-main/)
+- Solution URL: [https://github.com/Adrianmbugua/testimonials-grid-section-main.git](https://github.com/Adrianmbugua/testimonials-grid-section-main.git)
+-Live Site URL: [https://adrianmbugua.github.io/testimonials-grid-section-main/](https://adrianmbugua.github.io/testimonials-grid-section-main/)
 
 ### Built with
 
